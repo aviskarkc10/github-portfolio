@@ -1,0 +1,21 @@
+.user {
+	float: left;
+	padding-left: 10px;
+}
+
+.userAvatar{
+	width: 200px;
+	height: auto;
+	/*display: block;*/
+	margin-bottom: 10px; 
+}
+
+
+.unavailable {
+	color: red;
+}
+
+.user div {
+	margin-bottom: 10px;
+}
+
